@@ -1,0 +1,12 @@
+.sub-footer{
+  color: #0000008d;
+  text-align: center;
+  height: 5vh;
+}
+
+
+@media only screen and (max-width: 300px){
+	.sub-footer{
+		font-size: .2rem;
+	}
+}
